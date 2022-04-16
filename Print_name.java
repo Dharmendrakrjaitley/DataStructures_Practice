@@ -14,6 +14,7 @@ public class Print_name {
 		System.out.println(name);
 
 		printName(i + 1, name);
+		
 	}
 
 }
